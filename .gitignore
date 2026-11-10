@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Compiled binaries
+*.exe
+*.o
+*.obj
+
+# Raw downloaded recordings (re-download with the fetch_*.py scripts and get_piano.sh;
+# some sets are research-use only and must not be redistributed)
+PhysicalToneLab/runs/rnf_instruments_v7/data/piano/
+PhysicalToneLab/runs/rnf_instruments_v7/data/bass/
+PhysicalToneLab/runs/rnf_instruments_v7/data/egfx/
+PhysicalToneLab/runs/rnf_instruments_v7/data/guitarset/
+PhysicalToneLab/runs/rnf_instruments_v7/data/drums/
+PhysicalToneLab/runs/rnf_instruments_v7/data/crash/
+
+# Prepared training pairs over GitHub's 100 MB file limit (rebuild with each script's `prep` stage)
+PhysicalToneLab/runs/rnf_instruments_v7/data/bass_pairs.npz
+PhysicalToneLab/runs/rnf_instruments_v7/data/guitar_pairs.npz
+PhysicalToneLab/runs/rnf_instruments_v7/data/electric_clean_pairs.npz
+
+# Song stems as raw arrays (the .flac stems are kept; re-render with render_song.py)
+PhysicalToneLab/runs/rnf_song_ascend/stems/*.npy
+PhysicalToneLab/runs/rnf_song_ascend/ascend_first_120s_full_mix.flac
+
+# Uncompressed audio renders and scratch output
+*.wav
+*.tmp
