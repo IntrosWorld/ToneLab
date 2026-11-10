@@ -1,0 +1,4 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+out/strum_tuning_excerpt.wav
