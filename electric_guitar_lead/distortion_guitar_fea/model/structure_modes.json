@@ -1,0 +1,107 @@
+{
+  "source": "irregular alder equivalent-plate FEA plus maple Euler-Bernoulli neck FEA",
+  "role": "bridge/nut mechanical admittance controlling string losses",
+  "grid": [
+    35,
+    49
+  ],
+  "active_nodes": 1076,
+  "modes": [
+    {
+      "kind": "neck",
+      "hz": 68.098,
+      "q": 63.11,
+      "string_coupling": 0.408582
+    },
+    {
+      "kind": "body",
+      "hz": 256.29,
+      "q": 65.69,
+      "string_coupling": 0.799879
+    },
+    {
+      "kind": "neck",
+      "hz": 426.767,
+      "q": 48.81,
+      "string_coupling": 0.463883
+    },
+    {
+      "kind": "body",
+      "hz": 876.721,
+      "q": 52.64,
+      "string_coupling": 0.22489
+    },
+    {
+      "kind": "neck",
+      "hz": 1194.986,
+      "q": 42.26,
+      "string_coupling": 0.304271
+    },
+    {
+      "kind": "body",
+      "hz": 1405.34,
+      "q": 48.36,
+      "string_coupling": 0.183562
+    },
+    {
+      "kind": "body",
+      "hz": 1643.285,
+      "q": 47.01,
+      "string_coupling": 0.297336
+    },
+    {
+      "kind": "neck",
+      "hz": 2341.86,
+      "q": 38.46,
+      "string_coupling": 0.603425
+    },
+    {
+      "kind": "body",
+      "hz": 3111.358,
+      "q": 41.91,
+      "string_coupling": 0.158625
+    },
+    {
+      "kind": "body",
+      "hz": 3471.308,
+      "q": 41.09,
+      "string_coupling": 0.325664
+    },
+    {
+      "kind": "neck",
+      "hz": 3871.89,
+      "q": 35.85,
+      "string_coupling": 0.165307
+    },
+    {
+      "kind": "body",
+      "hz": 4296.737,
+      "q": 39.54,
+      "string_coupling": 0.348114
+    },
+    {
+      "kind": "body",
+      "hz": 4813.415,
+      "q": 38.74,
+      "string_coupling": 0.567097
+    },
+    {
+      "kind": "body",
+      "hz": 5337.804,
+      "q": 38.03,
+      "string_coupling": 0.827006
+    },
+    {
+      "kind": "neck",
+      "hz": 5785.724,
+      "q": 33.89,
+      "string_coupling": 0.715907
+    },
+    {
+      "kind": "body",
+      "hz": 6264.773,
+      "q": 36.95,
+      "string_coupling": 0.638596
+    }
+  ]
+}

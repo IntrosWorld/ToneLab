@@ -1,0 +1,34 @@
+{
+  "track": "Lead Guitar",
+  "track_index": 0,
+  "scope": "all 223 beats and 61 notes referenced by track 0",
+  "present_and_implemented": {
+    "ties": 19,
+    "bends": 9,
+    "slides": {
+      "muted_slide_in_from_below": 2,
+      "legato_slide_to_next_note": 1,
+      "downward_slide_out_on_tied_sustain": 1
+    },
+    "hammer_pull_pairs": 4,
+    "slight_vibrato_notes": 2,
+    "heavy_accent": 1,
+    "anti_accent_ghost_note": 1,
+    "muted_notes": 2,
+    "rhythm_values_and_tuplets": true,
+    "tempo_changes": [140, 115, 85, 60, 55, 65, 60],
+    "primary_pickup_volume": 0.5,
+    "primary_pickup_tone": 0.5,
+    "rse_factory_sound_reference": "Stringed/Electric Guitars/Distortion Guitar"
+  },
+  "confirmed_absent": [
+    "palm mute", "let ring", "harmonics", "tapping", "trills",
+    "tremolo picking", "grace notes", "pick direction", "brush/arpeggio",
+    "wah pedal", "whammy bar", "fade in", "rasgueado", "track automation",
+    "embedded pedal model", "embedded amplifier model", "embedded cabinet model"
+  ],
+  "notes": [
+    "The static pickup volume and tone values are neutral and identical on all beats.",
+    "The proprietary Guitar Pro RSE factory preset is referenced but its internal signal chain is not embedded in the GP archive."
+  ]
+}

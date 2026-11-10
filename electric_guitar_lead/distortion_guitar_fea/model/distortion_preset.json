@@ -1,0 +1,19 @@
+{
+  "source_gp_audio_engine": "RSE",
+  "source_gp_sound_path": "Stringed/Electric Guitars/Distortion Guitar",
+  "source_gp_channel_strip_parameters": [
+    0.6, 0.68, 1.0, 0.62, 0.75, 0.5, 0.66, 0.18,
+    0.6, 0.0, 0.5, 0.5, 0.8, 0.5, 0.5, 0.5
+  ],
+  "source_limitation": "The GP file references a proprietary Guitar Pro factory RSE sound; it does not embed portable pedal, amplifier, cabinet, gain-stage, or effect definitions.",
+  "implemented_chain": {
+    "input_gate_threshold": 0.0035,
+    "pre_distortion_highpass_hz": 92,
+    "oversampling": 4,
+    "preamp_stage_drives": [4.8, 3.9, 3.25, 2.65],
+    "interstage_lowpasses_hz": [7200, 6500, 9100],
+    "dry_attack_blend": 0.06,
+    "power_amp": "asymmetric saturated push-pull with sag",
+    "cabinet": "FEA-derived open-back 1x12 cone and panel modes"
+  }
+}

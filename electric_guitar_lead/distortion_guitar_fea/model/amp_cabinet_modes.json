@@ -1,0 +1,190 @@
+{
+  "source": "tensioned paper-cone membrane/bending FEA plus plywood Kirchhoff-panel FEA",
+  "role": "nonlinear 1x12 open-back guitar-speaker and cabinet modal coloration",
+  "modes": [
+    {
+      "kind": "cone",
+      "hz": 78.082,
+      "q": 10.54,
+      "drive_coupling": -1.0,
+      "mic_center": -0.973456,
+      "mic_edge": -0.837679
+    },
+    {
+      "kind": "cone",
+      "hz": 124.591,
+      "q": 9.95,
+      "drive_coupling": 0.0,
+      "mic_center": 0.0,
+      "mic_edge": -0.0
+    },
+    {
+      "kind": "cone",
+      "hz": 124.591,
+      "q": 9.95,
+      "drive_coupling": 0.0,
+      "mic_center": 0.0,
+      "mic_edge": 0.0
+    },
+    {
+      "kind": "cone",
+      "hz": 166.421,
+      "q": 9.59,
+      "drive_coupling": -0.0,
+      "mic_center": -0.0,
+      "mic_edge": 0.0
+    },
+    {
+      "kind": "cone",
+      "hz": 168.195,
+      "q": 9.57,
+      "drive_coupling": 0.0,
+      "mic_center": 0.0,
+      "mic_edge": -0.0
+    },
+    {
+      "kind": "cone",
+      "hz": 179.946,
+      "q": 9.49,
+      "drive_coupling": 0.734387,
+      "mic_center": 1.0,
+      "mic_edge": -1.0
+    },
+    {
+      "kind": "cone",
+      "hz": 208.256,
+      "q": 9.31,
+      "drive_coupling": 0.0,
+      "mic_center": 0.0,
+      "mic_edge": -0.0
+    },
+    {
+      "kind": "cone",
+      "hz": 208.256,
+      "q": 9.31,
+      "drive_coupling": -0.0,
+      "mic_center": -0.0,
+      "mic_edge": 0.0
+    },
+    {
+      "kind": "panel",
+      "hz": 215.863,
+      "q": 19.63,
+      "drive_coupling": 1.0,
+      "mic_center": 1.0,
+      "mic_edge": 0.93482
+    },
+    {
+      "kind": "cone",
+      "hz": 229.449,
+      "q": 9.2,
+      "drive_coupling": -0.0,
+      "mic_center": -0.0,
+      "mic_edge": -0.0
+    },
+    {
+      "kind": "cone",
+      "hz": 229.449,
+      "q": 9.2,
+      "drive_coupling": 0.0,
+      "mic_center": 0.0,
+      "mic_edge": -0.0
+    },
+    {
+      "kind": "cone",
+      "hz": 248.015,
+      "q": 9.1,
+      "drive_coupling": 0.024137,
+      "mic_center": 0.049596,
+      "mic_edge": -0.002945
+    },
+    {
+      "kind": "cone",
+      "hz": 248.69,
+      "q": 9.1,
+      "drive_coupling": 0.0,
+      "mic_center": 0.0,
+      "mic_edge": -0.0
+    },
+    {
+      "kind": "cone",
+      "hz": 274.333,
+      "q": 8.98,
+      "drive_coupling": 0.0,
+      "mic_center": 0.0,
+      "mic_edge": 0.0
+    },
+    {
+      "kind": "panel",
+      "hz": 485.034,
+      "q": 17.67,
+      "drive_coupling": -0.083881,
+      "mic_center": 0.0,
+      "mic_edge": -0.176346
+    },
+    {
+      "kind": "panel",
+      "hz": 590.589,
+      "q": 17.22,
+      "drive_coupling": -0.0,
+      "mic_center": -0.0,
+      "mic_edge": -1.0
+    },
+    {
+      "kind": "panel",
+      "hz": 859.759,
+      "q": 16.4,
+      "drive_coupling": -0.0,
+      "mic_center": -0.0,
+      "mic_edge": -0.188641
+    },
+    {
+      "kind": "panel",
+      "hz": 929.888,
+      "q": 16.23,
+      "drive_coupling": -0.331065,
+      "mic_center": -0.157581,
+      "mic_edge": -0.206627
+    },
+    {
+      "kind": "panel",
+      "hz": 1206.65,
+      "q": 15.69,
+      "drive_coupling": -0.336529,
+      "mic_center": -0.157769,
+      "mic_edge": 0.564014
+    },
+    {
+      "kind": "panel",
+      "hz": 1304.614,
+      "q": 15.53,
+      "drive_coupling": 0.0,
+      "mic_center": -0.0,
+      "mic_edge": -0.221034
+    },
+    {
+      "kind": "panel",
+      "hz": 1475.82,
+      "q": 15.29,
+      "drive_coupling": 0.028228,
+      "mic_center": 0.0,
+      "mic_edge": -0.106396
+    },
+    {
+      "kind": "panel",
+      "hz": 1544.833,
+      "q": 15.2,
+      "drive_coupling": -0.031994,
+      "mic_center": 0.0,
+      "mic_edge": -0.03801
+    },
+    {
+      "kind": "panel",
+      "hz": 1919.559,
+      "q": 14.77,
+      "drive_coupling": 0.0,
+      "mic_center": 0.0,
+      "mic_edge": 0.04066
+    }
+  ]
+}

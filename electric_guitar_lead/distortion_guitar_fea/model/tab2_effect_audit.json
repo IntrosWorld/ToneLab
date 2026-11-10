@@ -1,0 +1,44 @@
+{
+  "source": "ref/tab2.gp",
+  "included_tracks": {
+    "0_lead_guitar": {
+      "raw_notes": 80,
+      "sounding_events_after_ties": 74,
+      "ties": 11,
+      "hammer_pull_pairs": 12,
+      "bends": 4,
+      "slides": 4,
+      "rendered_articulations": {
+        "pick": 54,
+        "hammer_on": 8,
+        "pull_off": 4,
+        "legato_slide": 4,
+        "bend_up": 2,
+        "bend_release": 2
+      }
+    },
+    "1_rhythm_guitar": {
+      "raw_notes": 39,
+      "sounding_events_after_ties": 18,
+      "ties": 36,
+      "chord_labels": 5,
+      "rendered_articulations": {"pick": 18}
+    }
+  },
+  "excluded_tracks": {
+    "2": "Electric Bass (finger)",
+    "3": "Drums"
+  },
+  "shared": {
+    "tempo_bpm": 163,
+    "tuning_open_midi_low_to_high": [36, 43, 48, 53, 57, 62],
+    "sound": "Stringed/Electric Guitars/Distortion Guitar",
+    "pickup_volume": 0.5,
+    "pickup_tone": 0.5
+  },
+  "confirmed_absent_from_both_guitar_tracks": [
+    "palm mute", "vibrato", "harmonics", "tapping", "trills",
+    "tremolo picking", "grace notes", "pick direction", "wah pedal",
+    "whammy bar", "fade in", "track automation"
+  ]
+}
