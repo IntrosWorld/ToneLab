@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Tone lab · GP1 listening room</title>
+<style>
+:root{color-scheme:dark;--paper:#151a1b;--line:#384244;--ink:#edf0e8;--muted:#aeb9b2;--accent:#d9ed9c}
+*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.6 system-ui,sans-serif}
+main{max-width:1080px;margin:auto;padding:64px 32px}header{border-bottom:1px solid var(--line);padding-bottom:34px}
+.eyebrow{color:var(--accent);font-size:12px;letter-spacing:.18em;text-transform:uppercase}
+h1{font:500 clamp(36px,6vw,66px)/1.07 Georgia,serif;letter-spacing:-.035em;margin:18px 0}
+h2{font-size:23px;line-height:1.2;font-weight:500;margin:0 0 12px}p{color:var(--muted);max-width:750px;margin:12px 0}
+section{padding:32px 0;border-bottom:1px solid var(--line)}.row{display:grid;grid-template-columns:235px 1fr;gap:32px}
+.number{font:12px ui-monospace,monospace;color:var(--accent);display:block;margin-bottom:12px}
+.options{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 20px}button{font:inherit;font-size:14px;padding:10px 16px;background:transparent;color:var(--ink);border:1px solid #63706c;border-radius:3px;cursor:pointer}
+button:hover{border-color:var(--accent)}button[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:#1a2515}
+button:focus-visible,a:focus-visible{outline:3px solid var(--accent);outline-offset:4px}audio{width:100%;height:42px;margin-top:8px}
+.current{font-size:13px;color:var(--accent);min-height:21px}.note{font-size:13px;color:var(--muted)}.pair{margin-bottom:25px}.pair:last-child{margin-bottom:0}
+details{margin-top:20px}summary{cursor:pointer;color:var(--muted)}a{color:var(--accent)}footer{font-size:13px;color:var(--muted);margin-top:25px}
+@media(max-width:700px){main{padding:32px 20px}.row{grid-template-columns:1fr;gap:12px}section{padding:26px 0}header{padding-bottom:20px}.options{gap:6px}button{padding:10px 12px}}
+</style>
+</head>
+<body><main>
+<header><span class="eyebrow">Tone lab / Python reference renders</span>
+<h1>One phrase.<br>Four shades of clean.</h1>
+<p>The original GP1 lead phrase, with its bends, slides and pull-offs. Switch tones while playing to hear the same moment through a different pickup and effect.</p>
+<span class="note">48 kHz · 24-bit WAV · 15.46-second guitar clips · comparisons level-matched</span></header>
+
+<section class="row"><div><span class="number">01 / GUITAR</span><h2>Find the tone</h2><p class="note">Warm clean ↔ classic chorus share the same dry guitar. Glass clean ↔ wide chorus share the brighter dry guitar.</p></div>
+<div><div class="options" data-player="guitar">
+<button aria-pressed="true" data-file="gp1_clean_neck" data-label="Warm clean · neck pickup, subtle room">Warm clean</button>
+<button aria-pressed="false" data-file="gp1_clean_glass" data-label="Glass clean · middle / bridge pickups">Glass clean</button>
+<button aria-pressed="false" data-file="gp1_chorus_classic" data-label="Classic chorus · two voices, gentle motion">Classic chorus</button>
+<button aria-pressed="false" data-file="gp1_chorus_wide" data-label="Wide chorus · four voices, more space">Wide chorus</button>
+</div><div class="current" id="guitar-label" aria-live="polite">Warm clean · neck pickup, subtle room</div>
+<audio id="guitar" controls preload="metadata" src="out/gp1_clean_neck.wav"></audio>
+<details><summary>Dry signal and original string-model comparison</summary>
+<p class="note">Dry pickup signal before the clean amp or effects.</p><audio controls preload="none" src="out/gp1_clean_neck_DI.wav"></audio>
+<p class="note">Original distortion string model through the new clean amp, level-matched. This isolates the string-generator changes.</p><audio controls preload="none" src="out/gp1_legacy_string_clean_reference.wav"></audio>
+</details></div></section>
+
+<section class="row"><div><span class="number">02 / RHYTHM SECTION</span><h2>Before & after</h2><p class="note">The same GP2 notes and hits. Switch at the same playback position. GP1 has no drum track, so this comparison uses a short GP2 excerpt.</p></div>
+<div><div class="pair"><div class="options" data-player="bass">
+<button aria-pressed="false" data-file="gp2_bass_legacy_matched" data-label="Bass · original model">Original bass</button>
+<button aria-pressed="true" data-file="gp2_bass_finger" data-label="Bass · new fingerstyle model, centered DI">New bass</button>
+</div><div class="current" id="bass-label" aria-live="polite">Bass · new fingerstyle model, centered DI</div><audio id="bass" controls preload="metadata" src="out/gp2_bass_finger.wav"></audio></div>
+<div class="pair"><div class="options" data-player="drums">
+<button aria-pressed="false" data-file="gp2_drums_legacy_matched" data-label="Drums · original kit">Original drums</button>
+<button aria-pressed="true" data-file="gp2_drums_acoustic" data-label="Drums · new acoustic kit, dense cymbal modes">New drums</button>
+</div><div class="current" id="drums-label" aria-live="polite">Drums · new acoustic kit, dense cymbal modes</div><audio id="drums" controls preload="metadata" src="out/gp2_drums_acoustic.wav"></audio></div>
+</div></section>
+
+<section class="row"><div><span class="number">03 / IN CONTEXT</span><h2>The band</h2><p class="note">Chorus lead, glass-clean rhythm guitar, finger bass and acoustic drums. All four parts come from GP2.</p></div>
+<div><audio controls preload="metadata" src="out/gp2_clean_chorus_band.wav"></audio><p class="note">This mix is slightly louder than the isolated comparisons.</p>
+<details><summary>GP1 bass entrance</summary><p class="note">The first bass note in GP1 enters after the lead phrase, at source time 12.3727 s. This excerpt moves that entrance to 0.2 s.</p><audio controls preload="none" src="out/gp1_bass_entrance.wav"></audio></details></div></section>
+
+<section class="row"><div><span class="number">04 / DIAGNOSTICS</span><h2>Touch & dynamics</h2><p class="note">Each pitch or kit piece plays soft, medium, then hard. These clips help expose attack, decay and velocity response.</p></div>
+<div><p class="note">Bass · open strings and a fretted note</p><audio controls preload="none" src="out/bass/dynamics_and_strings.wav"></audio>
+<p class="note">Kit · kick, snare, hats, four toms, crash, ride, then open-hat choking</p><audio controls preload="none" src="out/drums/kit_and_velocity_sweep.wav"></audio></div></section>
+<footer>Keep your listening volume fixed for A/B comparisons. Switching preserves the playhead; only one player runs at a time. <a href="README.md">Model notes & rebuild instructions</a> · <a href="out/manifest.json">Render report</a></footer>
+</main>
+<script>
+document.querySelectorAll('audio').forEach(player=>{
+ player.addEventListener('play',()=>document.querySelectorAll('audio').forEach(other=>{if(other!==player)other.pause()}));
+ player.addEventListener('error',()=>{
+  const label=document.getElementById(player.id+'-label');
+  if(label)label.textContent='Audio unavailable. Rebuild the renders, then reload this page.';
+ });
+});
+document.querySelectorAll('.options').forEach(group=>{
+ const player=document.getElementById(group.dataset.player);
+ let generation=0;
+ group.querySelectorAll('button').forEach(button=>button.addEventListener('click',()=>{
+  if(button.getAttribute('aria-pressed')==='true')return;
+  const position=player.ended?0:(player.currentTime||0),playing=!player.paused;
+  const version=++generation;
+  group.querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));
+  document.getElementById(player.id+'-label').textContent=button.dataset.label;
+  player.pause();
+  player.src='out/'+button.dataset.file+'.wav';
+  player.addEventListener('loadedmetadata',()=>{
+   if(version!==generation)return;
+   player.currentTime=Math.min(position,Math.max(0,player.duration-.01));
+   if(playing)player.play().catch(()=>{});
+  },{once:true});
+  player.load();
+ }));
+});
+</script></body></html>
