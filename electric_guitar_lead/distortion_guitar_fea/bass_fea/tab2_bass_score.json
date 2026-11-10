@@ -1,0 +1,272 @@
+{
+  "source": "F:\\College\\projects\\VLSI\\electric_guitar_lead\\distortion_guitar_fea\\ref\\tab2.gp",
+  "track_index": 2,
+  "track_name": "Electric Bass (finger)",
+  "tempo_bpm": 163.0,
+  "tuning_open_midi_low_to_high": [
+    28,
+    33,
+    38,
+    43
+  ],
+  "raw_notes": 41,
+  "sounding_events": 41,
+  "pitch_range_midi": [
+    29,
+    43
+  ],
+  "dynamics": {
+    "F": 41
+  },
+  "duration_s": 23.78404,
+  "model": "F:\\College\\projects\\VLSI\\electric_guitar_lead\\distortion_guitar_fea\\bass_fea\\bass_fea_modes.json",
+  "output": "F:\\College\\projects\\VLSI\\electric_guitar_lead\\distortion_guitar_fea\\bass_fea\\tab2_bass_fea.wav",
+  "events": [
+    {
+      "start": 1.4723926380368098,
+      "duration": 0.34601226993865025,
+      "midi": 36,
+      "velocity": 108
+    },
+    {
+      "start": 1.8404907975460123,
+      "duration": 0.34601226993865025,
+      "midi": 36,
+      "velocity": 108
+    },
+    {
+      "start": 2.7607361963190185,
+      "duration": 0.17300613496932513,
+      "midi": 36,
+      "velocity": 108
+    },
+    {
+      "start": 2.9447852760736195,
+      "duration": 0.34601226993865025,
+      "midi": 36,
+      "velocity": 108
+    },
+    {
+      "start": 3.312883435582822,
+      "duration": 0.34601226993865025,
+      "midi": 36,
+      "velocity": 108
+    },
+    {
+      "start": 4.233128834355828,
+      "duration": 0.17300613496932513,
+      "midi": 36,
+      "velocity": 108
+    },
+    {
+      "start": 4.417177914110429,
+      "duration": 0.34601226993865025,
+      "midi": 36,
+      "velocity": 108
+    },
+    {
+      "start": 4.785276073619631,
+      "duration": 0.34601226993865025,
+      "midi": 36,
+      "velocity": 108
+    },
+    {
+      "start": 5.705521472392637,
+      "duration": 0.17300613496932513,
+      "midi": 36,
+      "velocity": 108
+    },
+    {
+      "start": 5.889570552147239,
+      "duration": 0.34601226993865025,
+      "midi": 36,
+      "velocity": 108
+    },
+    {
+      "start": 6.257668711656441,
+      "duration": 0.34601226993865025,
+      "midi": 36,
+      "velocity": 108
+    },
+    {
+      "start": 6.809815950920245,
+      "duration": 0.17300613496932513,
+      "midi": 43,
+      "velocity": 108
+    },
+    {
+      "start": 6.993865030674846,
+      "duration": 0.17300613496932513,
+      "midi": 39,
+      "velocity": 108
+    },
+    {
+      "start": 7.177914110429447,
+      "duration": 0.17300613496932513,
+      "midi": 36,
+      "velocity": 108
+    },
+    {
+      "start": 7.361963190184049,
+      "duration": 0.34601226993865025,
+      "midi": 34,
+      "velocity": 108
+    },
+    {
+      "start": 7.730061349693251,
+      "duration": 0.34601226993865025,
+      "midi": 34,
+      "velocity": 108
+    },
+    {
+      "start": 8.650306748466258,
+      "duration": 0.17300613496932513,
+      "midi": 34,
+      "velocity": 108
+    },
+    {
+      "start": 8.83435582822086,
+      "duration": 0.34601226993865025,
+      "midi": 34,
+      "velocity": 108
+    },
+    {
+      "start": 9.202453987730062,
+      "duration": 0.34601226993865025,
+      "midi": 34,
+      "velocity": 108
+    },
+    {
+      "start": 10.122699386503069,
+      "duration": 0.17300613496932513,
+      "midi": 34,
+      "velocity": 108
+    },
+    {
+      "start": 10.30674846625767,
+      "duration": 0.34601226993865025,
+      "midi": 34,
+      "velocity": 108
+    },
+    {
+      "start": 10.674846625766872,
+      "duration": 0.34601226993865025,
+      "midi": 34,
+      "velocity": 108
+    },
+    {
+      "start": 11.595092024539879,
+      "duration": 0.17300613496932513,
+      "midi": 34,
+      "velocity": 108
+    },
+    {
+      "start": 11.77914110429448,
+      "duration": 0.34601226993865025,
+      "midi": 34,
+      "velocity": 108
+    },
+    {
+      "start": 12.147239263803682,
+      "duration": 0.34601226993865025,
+      "midi": 34,
+      "velocity": 108
+    },
+    {
+      "start": 12.699386503067487,
+      "duration": 0.5190184049079755,
+      "midi": 39,
+      "velocity": 108
+    },
+    {
+      "start": 13.25153374233129,
+      "duration": 0.34601226993865025,
+      "midi": 32,
+      "velocity": 108
+    },
+    {
+      "start": 13.619631901840492,
+      "duration": 0.34601226993865025,
+      "midi": 32,
+      "velocity": 108
+    },
+    {
+      "start": 14.5398773006135,
+      "duration": 0.17300613496932513,
+      "midi": 32,
+      "velocity": 108
+    },
+    {
+      "start": 14.7239263803681,
+      "duration": 0.34601226993865025,
+      "midi": 32,
+      "velocity": 108
+    },
+    {
+      "start": 15.092024539877302,
+      "duration": 0.34601226993865025,
+      "midi": 32,
+      "velocity": 108
+    },
+    {
+      "start": 16.01226993865031,
+      "duration": 0.17300613496932513,
+      "midi": 32,
+      "velocity": 108
+    },
+    {
+      "start": 16.19631901840491,
+      "duration": 0.34601226993865025,
+      "midi": 29,
+      "velocity": 108
+    },
+    {
+      "start": 16.564417177914113,
+      "duration": 0.34601226993865025,
+      "midi": 29,
+      "velocity": 108
+    },
+    {
+      "start": 17.484662576687118,
+      "duration": 0.17300613496932513,
+      "midi": 29,
+      "velocity": 108
+    },
+    {
+      "start": 17.66871165644172,
+      "duration": 0.34601226993865025,
+      "midi": 29,
+      "velocity": 108
+    },
+    {
+      "start": 18.03680981595092,
+      "duration": 0.34601226993865025,
+      "midi": 29,
+      "velocity": 108
+    },
+    {
+      "start": 18.957055214723926,
+      "duration": 0.17300613496932513,
+      "midi": 29,
+      "velocity": 108
+    },
+    {
+      "start": 19.141104294478527,
+      "duration": 0.34601226993865025,
+      "midi": 39,
+      "velocity": 108
+    },
+    {
+      "start": 19.50920245398773,
+      "duration": 0.34601226993865025,
+      "midi": 39,
+      "velocity": 108
+    },
+    {
+      "start": 20.429447852760735,
+      "duration": 0.17300613496932513,
+      "midi": 39,
+      "velocity": 108
+    }
+  ]
+}

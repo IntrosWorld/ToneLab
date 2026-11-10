@@ -1,0 +1,2371 @@
+{
+  "source": "tests\\tab3.gp",
+  "track_index": 2,
+  "track_name": "Electric Bass (finger)",
+  "tempo_bpm": 95.0,
+  "tuning_open_midi_low_to_high": [
+    26,
+    33,
+    38,
+    43
+  ],
+  "raw_notes": 369,
+  "sounding_events": 335,
+  "pitch_range_midi": [
+    26,
+    36
+  ],
+  "dynamics": {
+    "F": 335
+  },
+  "duration_s": 178.778947368421,
+  "model": "bass_fea\\tab3_bass_fea_modes.json",
+  "output": "bass_fea\\tab3_bass_fea.wav",
+  "events": [
+    {
+      "start": 1.263157894736842,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 1.5789473684210527,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 1.894736842105263,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 2.052631578947368,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 2.2105263157894735,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 2.3684210526315788,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 2.526315789473684,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 2.8421052631578947,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 3.1578947368421053,
+      "duration": 0.14842105263157893,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 3.3157894736842106,
+      "duration": 0.14842105263157893,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 3.473684210526316,
+      "duration": 0.14842105263157893,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 3.631578947368421,
+      "duration": 0.14842105263157893,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 3.789473684210526,
+      "duration": 0.29684210526315785,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 4.105263157894736,
+      "duration": 0.29684210526315785,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 4.421052631578947,
+      "duration": 0.14842105263157893,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 4.578947368421052,
+      "duration": 0.14842105263157893,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 4.7368421052631575,
+      "duration": 0.14842105263157893,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 4.894736842105263,
+      "duration": 0.14842105263157893,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 5.052631578947368,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 5.368421052631579,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 5.684210526315789,
+      "duration": 0.14842105263157893,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 5.842105263157895,
+      "duration": 0.14842105263157893,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 6.0,
+      "duration": 0.14842105263157893,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 6.157894736842104,
+      "duration": 0.14842105263157893,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 6.315789473684211,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 6.631578947368421,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 6.947368421052632,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 7.105263157894737,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 7.2631578947368425,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 7.421052631578948,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 7.578947368421053,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 7.894736842105264,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 8.210526315789474,
+      "duration": 0.14842105263157893,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 8.368421052631579,
+      "duration": 0.14842105263157893,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 8.526315789473685,
+      "duration": 0.14842105263157893,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 8.68421052631579,
+      "duration": 0.14842105263157893,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 8.842105263157894,
+      "duration": 0.29684210526315785,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 9.157894736842104,
+      "duration": 0.44526315789473614,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 9.63157894736842,
+      "duration": 0.4452631578947368,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 10.105263157894736,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 11.368421052631579,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 11.68421052631579,
+      "duration": 0.44526315789473614,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 12.157894736842104,
+      "duration": 0.4452631578947368,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 12.631578947368421,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 13.894736842105264,
+      "duration": 0.29684210526315785,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 14.210526315789474,
+      "duration": 0.44526315789473614,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 14.68421052631579,
+      "duration": 0.4452631578947368,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 15.157894736842106,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 16.42105263157895,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 16.736842105263158,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 17.05263157894737,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 17.210526315789476,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 17.36842105263158,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 17.526315789473685,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 17.68421052631579,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 18.947368421052634,
+      "duration": 0.29684210526315785,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 19.263157894736842,
+      "duration": 0.29684210526315785,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 19.578947368421055,
+      "duration": 0.14842105263157893,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 19.73684210526316,
+      "duration": 0.14842105263157893,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 19.894736842105264,
+      "duration": 0.14842105263157893,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 20.05263157894737,
+      "duration": 0.14842105263157893,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 20.210526315789476,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 21.47368421052632,
+      "duration": 1.1873684210526314,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 22.73684210526316,
+      "duration": 0.29684210526315785,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 23.05263157894737,
+      "duration": 0.4452631578947368,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 23.52631578947369,
+      "duration": 0.4452631578947368,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 24.000000000000004,
+      "duration": 1.484210526315788,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 25.578947368421055,
+      "duration": 0.4452631578947368,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 26.052631578947373,
+      "duration": 0.4452631578947368,
+      "midi": 28,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 26.52631578947369,
+      "duration": 1.1873684210526314,
+      "midi": 26,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 27.78947368421053,
+      "duration": 0.29684210526315785,
+      "midi": 26,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 28.10526315789474,
+      "duration": 0.4452631578947368,
+      "midi": 26,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 28.57894736842106,
+      "duration": 0.4452631578947368,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 29.052631578947373,
+      "duration": 1.1873684210526314,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 30.315789473684216,
+      "duration": 0.29684210526315785,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 30.631578947368425,
+      "duration": 0.4452631578947368,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 31.105263157894743,
+      "duration": 0.4452631578947368,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 31.57894736842106,
+      "duration": 1.1873684210526314,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 32.8421052631579,
+      "duration": 0.29684210526315785,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 33.15789473684211,
+      "duration": 0.4452631578947368,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 33.631578947368425,
+      "duration": 0.4452631578947368,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 34.10526315789474,
+      "duration": 1.1873684210526314,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 35.36842105263158,
+      "duration": 0.29684210526315785,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 35.684210526315795,
+      "duration": 0.4452631578947368,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 36.15789473684211,
+      "duration": 0.4452631578947368,
+      "midi": 28,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 36.631578947368425,
+      "duration": 1.1873684210526314,
+      "midi": 26,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 37.89473684210527,
+      "duration": 0.29684210526315785,
+      "midi": 26,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 38.21052631578948,
+      "duration": 0.4452631578947368,
+      "midi": 26,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 38.684210526315795,
+      "duration": 0.4452631578947368,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 39.15789473684211,
+      "duration": 1.1873684210526314,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 40.42105263157895,
+      "duration": 0.29684210526315785,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 40.736842105263165,
+      "duration": 0.4452631578947368,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 41.21052631578948,
+      "duration": 0.4452631578947368,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 41.684210526315795,
+      "duration": 1.0389473684210486,
+      "midi": 26,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 42.789473684210535,
+      "duration": 1.3357894736842084,
+      "midi": 28,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 44.21052631578948,
+      "duration": 1.0389473684210486,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 45.31578947368422,
+      "duration": 1.3357894736842084,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 46.736842105263165,
+      "duration": 1.1873684210526314,
+      "midi": 26,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 48.00000000000001,
+      "duration": 1.1873684210526314,
+      "midi": 28,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 49.26315789473685,
+      "duration": 1.1873684210526314,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 50.52631578947369,
+      "duration": 1.1873684210526314,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 51.789473684210535,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 52.10526315789475,
+      "duration": 0.4452631578947368,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 52.57894736842106,
+      "duration": 0.4452631578947368,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 53.05263157894738,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 54.31578947368422,
+      "duration": 0.29684210526315785,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 54.63157894736843,
+      "duration": 0.4452631578947294,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 55.10526315789475,
+      "duration": 0.4452631578947368,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 55.57894736842106,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 56.842105263157904,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 57.15789473684212,
+      "duration": 0.4452631578947294,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 57.63157894736843,
+      "duration": 0.4452631578947368,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 58.10526315789475,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 59.36842105263159,
+      "duration": 0.29684210526315785,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 59.6842105263158,
+      "duration": 0.4452631578947294,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 60.15789473684212,
+      "duration": 0.4452631578947368,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 60.63157894736843,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 61.894736842105274,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 62.21052631578949,
+      "duration": 0.4452631578947294,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 62.6842105263158,
+      "duration": 0.4452631578947368,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 63.15789473684212,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 64.42105263157896,
+      "duration": 0.29684210526315785,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 64.73684210526316,
+      "duration": 0.44526315789474946,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 65.21052631578948,
+      "duration": 0.4452631578947368,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 65.6842105263158,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 66.94736842105264,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 67.26315789473685,
+      "duration": 0.44526315789474946,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 67.73684210526316,
+      "duration": 0.4452631578947368,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 68.21052631578948,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 69.47368421052633,
+      "duration": 0.29684210526315785,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 69.78947368421053,
+      "duration": 0.29684210526315785,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 70.10526315789475,
+      "duration": 0.14842105263157893,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 70.26315789473685,
+      "duration": 0.14842105263157893,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 70.42105263157896,
+      "duration": 0.14842105263157893,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 70.57894736842107,
+      "duration": 0.14842105263157893,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 70.73684210526316,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 72.00000000000001,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 72.31578947368422,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 72.63157894736844,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 72.78947368421053,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 72.94736842105264,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 73.10526315789475,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 73.26315789473685,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 74.5263157894737,
+      "duration": 0.29684210526315785,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 74.8421052631579,
+      "duration": 0.29684210526315785,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 75.15789473684212,
+      "duration": 0.14842105263157893,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 75.31578947368422,
+      "duration": 0.14842105263157893,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 75.47368421052633,
+      "duration": 0.14842105263157893,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 75.63157894736844,
+      "duration": 0.14842105263157893,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 75.78947368421053,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 77.05263157894738,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 77.36842105263159,
+      "duration": 0.44526315789474946,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 77.8421052631579,
+      "duration": 0.4452631578947368,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 78.31578947368422,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 79.57894736842107,
+      "duration": 0.29684210526315785,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 79.89473684210527,
+      "duration": 0.44526315789474946,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 80.36842105263159,
+      "duration": 0.4452631578947368,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 80.8421052631579,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 82.10526315789475,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 82.42105263157896,
+      "duration": 0.44526315789474946,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 82.89473684210527,
+      "duration": 0.4452631578947368,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 83.36842105263159,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 84.63157894736844,
+      "duration": 0.29684210526315785,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 84.94736842105264,
+      "duration": 0.4452631578947368,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 85.42105263157896,
+      "duration": 0.4452631578947368,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 85.89473684210527,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 87.15789473684212,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 87.47368421052633,
+      "duration": 0.4452631578947368,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 87.94736842105264,
+      "duration": 0.4452631578947368,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 88.42105263157896,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 89.68421052631581,
+      "duration": 0.29684210526315785,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 90.00000000000001,
+      "duration": 0.4452631578947368,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 90.47368421052633,
+      "duration": 0.4452631578947368,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 90.94736842105264,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 92.2105263157895,
+      "duration": 1.0389473684210553,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 93.31578947368423,
+      "duration": 0.4452631578947368,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 93.78947368421055,
+      "duration": 0.8905263157894736,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 94.73684210526318,
+      "duration": 1.0389473684210553,
+      "midi": 28,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 95.84210526315792,
+      "duration": 0.4452631578947368,
+      "midi": 28,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 96.31578947368423,
+      "duration": 0.8905263157894736,
+      "midi": 28,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 97.26315789473686,
+      "duration": 1.0389473684210553,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 98.3684210526316,
+      "duration": 0.4452631578947368,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 98.84210526315792,
+      "duration": 0.8905263157894736,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 99.78947368421055,
+      "duration": 1.0389473684210553,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 100.89473684210529,
+      "duration": 0.4452631578947368,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 101.3684210526316,
+      "duration": 0.8905263157894736,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 102.31578947368423,
+      "duration": 1.0389473684210553,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 103.42105263157897,
+      "duration": 0.4452631578947368,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 103.89473684210529,
+      "duration": 0.8905263157894736,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 104.84210526315792,
+      "duration": 1.0389473684210553,
+      "midi": 28,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 105.94736842105266,
+      "duration": 0.4452631578947368,
+      "midi": 28,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 106.42105263157897,
+      "duration": 0.8905263157894736,
+      "midi": 28,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 107.3684210526316,
+      "duration": 0.29684210526315785,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 107.68421052631581,
+      "duration": 0.7421052631579025,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 108.47368421052634,
+      "duration": 0.4452631578947368,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 108.94736842105266,
+      "duration": 0.8905263157894736,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 109.89473684210529,
+      "duration": 1.484210526315778,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 111.47368421052634,
+      "duration": 0.44526315789473614,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 111.94736842105266,
+      "duration": 0.4452631578947368,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 112.42105263157897,
+      "duration": 1.0389473684210553,
+      "midi": 26,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 113.52631578947371,
+      "duration": 0.4452631578947368,
+      "midi": 28,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 114.00000000000003,
+      "duration": 0.8905263157894736,
+      "midi": 28,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 114.94736842105266,
+      "duration": 1.0389473684210553,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 116.0526315789474,
+      "duration": 1.3357894736842084,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 117.47368421052634,
+      "duration": 1.0389473684210553,
+      "midi": 26,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 118.57894736842108,
+      "duration": 1.3357894736842084,
+      "midi": 28,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 120.00000000000003,
+      "duration": 1.1873684210526314,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 121.26315789473686,
+      "duration": 1.1873684210526314,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 122.52631578947371,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 122.84210526315792,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 123.15789473684214,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 123.47368421052634,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 123.78947368421055,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 124.10526315789477,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 124.42105263157897,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 124.7368421052632,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 125.0526315789474,
+      "duration": 0.29684210526315785,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 125.3684210526316,
+      "duration": 0.29684210526315785,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 125.68421052631582,
+      "duration": 0.29684210526315785,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 126.00000000000003,
+      "duration": 0.29684210526315785,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 126.31578947368423,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 126.63157894736845,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 126.94736842105266,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 127.26315789473688,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 127.57894736842108,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 127.89473684210529,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 128.2105263157895,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 128.52631578947373,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 128.84210526315792,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 129.15789473684214,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 129.47368421052636,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 129.78947368421055,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 130.10526315789477,
+      "duration": 0.29684210526315785,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 130.421052631579,
+      "duration": 0.4452631578947368,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 130.8947368421053,
+      "duration": 0.4452631578947368,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 131.36842105263162,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 132.63157894736844,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 132.94736842105266,
+      "duration": 0.4452631578947368,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 133.42105263157896,
+      "duration": 0.4452631578947368,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 133.8947368421053,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 135.1578947368421,
+      "duration": 0.29684210526315785,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 135.47368421052633,
+      "duration": 0.4452631578947368,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 135.94736842105263,
+      "duration": 0.4452631578947368,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 136.42105263157896,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 137.68421052631578,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 138.0,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 138.3157894736842,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 138.4736842105263,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 138.6315789473684,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 138.78947368421052,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 138.94736842105263,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 140.21052631578945,
+      "duration": 0.29684210526315785,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 140.52631578947367,
+      "duration": 0.29684210526315785,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 140.84210526315786,
+      "duration": 0.14842105263157893,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 140.99999999999997,
+      "duration": 0.14842105263157893,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 141.15789473684208,
+      "duration": 0.14842105263157893,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 141.3157894736842,
+      "duration": 0.14842105263157893,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 141.4736842105263,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 142.73684210526312,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 143.05263157894734,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 143.36842105263153,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 143.52631578947364,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 143.68421052631575,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 143.84210526315786,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 143.99999999999997,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 145.2631578947368,
+      "duration": 0.29684210526315785,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 145.578947368421,
+      "duration": 0.29684210526315785,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 145.8947368421052,
+      "duration": 0.14842105263157893,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 146.0526315789473,
+      "duration": 0.14842105263157893,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 146.21052631578942,
+      "duration": 0.14842105263157893,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 146.36842105263153,
+      "duration": 0.14842105263157893,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 146.52631578947364,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 147.78947368421046,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 148.10526315789468,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 148.42105263157887,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 148.57894736842098,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 148.7368421052631,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 148.8947368421052,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 149.0526315789473,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 150.31578947368413,
+      "duration": 0.29684210526315785,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 150.63157894736835,
+      "duration": 0.29684210526315785,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 150.94736842105254,
+      "duration": 0.14842105263157893,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 151.10526315789465,
+      "duration": 0.14842105263157893,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 151.26315789473676,
+      "duration": 0.14842105263157893,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 151.42105263157887,
+      "duration": 0.14842105263157893,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 151.57894736842098,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 152.8421052631578,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 153.15789473684202,
+      "duration": 0.44526315789472276,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 153.63157894736833,
+      "duration": 0.4452631578947368,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 154.10526315789465,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 155.36842105263148,
+      "duration": 0.29684210526315785,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 155.6842105263157,
+      "duration": 0.44526315789472276,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 156.157894736842,
+      "duration": 0.4452631578947368,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 156.63157894736833,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 157.89473684210515,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 158.21052631578937,
+      "duration": 0.44526315789472276,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 158.68421052631567,
+      "duration": 0.4452631578947368,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 159.157894736842,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 160.42105263157882,
+      "duration": 0.29684210526315785,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 160.73684210526304,
+      "duration": 0.29684210526315785,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 161.05263157894723,
+      "duration": 0.14842105263157893,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 161.21052631578934,
+      "duration": 0.14842105263157893,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 161.36842105263145,
+      "duration": 0.14842105263157893,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 161.52631578947356,
+      "duration": 0.14842105263157893,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 161.68421052631567,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 162.9473684210525,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 163.2631578947367,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 163.5789473684209,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 163.736842105263,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 163.89473684210512,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 164.05263157894723,
+      "duration": 0.14842105263157893,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 164.21052631578934,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 165.47368421052616,
+      "duration": 0.29684210526315785,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 165.78947368421038,
+      "duration": 0.29684210526315785,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 166.10526315789457,
+      "duration": 0.14842105263157893,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 166.26315789473668,
+      "duration": 0.14842105263157893,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 166.4210526315788,
+      "duration": 0.14842105263157893,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 166.5789473684209,
+      "duration": 0.14842105263157893,
+      "midi": 33,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 166.736842105263,
+      "duration": 1.1873684210526314,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 167.99999999999983,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 168.31578947368405,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 168.63157894736824,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 168.94736842105246,
+      "duration": 0.29684210526315785,
+      "midi": 36,
+      "velocity": 108,
+      "string_index": 1
+    },
+    {
+      "start": 169.26315789473668,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 169.57894736842087,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 169.8947368421051,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 170.2105263157893,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 170.5263157894735,
+      "duration": 0.29684210526315785,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 170.84210526315772,
+      "duration": 0.29684210526315785,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 171.1578947368419,
+      "duration": 0.29684210526315785,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 171.47368421052613,
+      "duration": 0.29684210526315785,
+      "midi": 29,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 171.78947368421035,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 172.10526315789454,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 172.42105263157876,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    },
+    {
+      "start": 172.73684210526298,
+      "duration": 0.29684210526315785,
+      "midi": 31,
+      "velocity": 108,
+      "string_index": 0
+    }
+  ]
+}
