@@ -1,0 +1,3 @@
+snare v2 gain (hand rule: same peak as the first snare model) 3.31
+drum hits 707 {'crash': 24, 'kick': 275, 'snare': 99, 'tom_high': 1, 'hihat': 613}
+drums saved; peak 0.9 rms 0.0704

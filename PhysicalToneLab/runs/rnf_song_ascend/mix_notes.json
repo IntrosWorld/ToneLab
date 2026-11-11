@@ -1,0 +1,72 @@
+{
+ "piano": {
+  "level_db": -19.0,
+  "pan": 0.0,
+  "plays_seconds": [
+   0.0,
+   23.6
+  ]
+ },
+ "steel": {
+  "level_db": -21.0,
+  "pan": 0.0,
+  "plays_seconds": [
+   12.0,
+   23.6
+  ]
+ },
+ "guitar_lead": {
+  "level_db": -19.0,
+  "pan": 0.25,
+  "plays_seconds": [
+   25.1,
+   120.1
+  ]
+ },
+ "guitar_rhythm": {
+  "level_db": -22.0,
+  "pan": -0.35,
+  "plays_seconds": [
+   25.1,
+   120.0
+  ]
+ },
+ "drums": {
+  "level_db": -18.0,
+  "pan": 0.0,
+  "plays_seconds": [
+   25.5,
+   120.1
+  ]
+ },
+ "mix": {
+  "peak_before_limiter": 1.37,
+  "limited_fraction": 0.0134,
+  "band_db": {
+   "30": -11.3,
+   "60": -9.3,
+   "120": -7.7,
+   "250": -10.4,
+   "500": -10.2,
+   "1000": -9.3,
+   "2000": -7.1,
+   "4000": -11.3,
+   "8000": -11.9
+  },
+  "rms_per_10s": [
+   0.089,
+   0.145,
+   0.116,
+   0.157,
+   0.172,
+   0.169,
+   0.173,
+   0.169,
+   0.168,
+   0.171,
+   0.172,
+   0.166
+  ],
+  "note": "hand mix; not listened to by the assistant"
+ }
+}

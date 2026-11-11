@@ -1,0 +1,2 @@
+drum hits 707 {'crash': 24, 'kick': 275, 'snare': 99, 'tom_high': 1, 'hihat': 613}
+drums saved; peak 0.9 rms 0.0707

@@ -1,0 +1,4 @@
+guitar_lead {'notes': 464, 'tuning': [39, 44, 49, 54, 58, 63], 'frames_by_input_step_0_to_minus24dB': [10151, 456, 59, 23, 0], 'amp_peak_before_limit': 0.45, 'amp_peak_after': 0.45}
+guitar_lead saved; peak 0.457 rms 0.0964
+guitar_rhythm {'notes': 135, 'tuning': [39, 44, 49, 54, 58, 63], 'frames_by_input_step_0_to_minus24dB': [10041, 645, 3, 0, 0], 'amp_peak_before_limit': 0.43, 'amp_peak_after': 0.43}
+guitar_rhythm saved; peak 0.461 rms 0.0963
