@@ -1,0 +1,65 @@
+{
+ "test_10101": {
+  "waveform_error": 0.154,
+  "waveform_error_below_8k": 0.154,
+  "clean_as_output": 0.891,
+  "target": {
+   "rms": 0.0995,
+   "peak": 0.453,
+   "centroid_hz": 1499,
+   "crest_db": 13.2
+  },
+  "resonant_flow": {
+   "rms": 0.0906,
+   "peak": 0.419,
+   "centroid_hz": 1277,
+   "crest_db": 13.3
+  },
+  "frames_limited": [
+   0,
+   1731
+  ]
+ },
+ "redbone_manuel": {
+  "waveform_error": 0.157,
+  "waveform_error_below_8k": 0.157,
+  "clean_as_output": 0.957,
+  "target": {
+   "rms": 0.109,
+   "peak": 0.591,
+   "centroid_hz": 1373,
+   "crest_db": 14.7
+  },
+  "resonant_flow": {
+   "rms": 0.0987,
+   "peak": 2.405,
+   "centroid_hz": 1185,
+   "crest_db": 27.7
+  },
+  "frames_limited": [
+   85,
+   5356
+  ]
+ },
+ "redbone_thedooo": {
+  "waveform_error": 0.1,
+  "waveform_error_below_8k": 0.1,
+  "clean_as_output": 0.912,
+  "target": {
+   "rms": 0.1082,
+   "peak": 0.547,
+   "centroid_hz": 1328,
+   "crest_db": 14.1
+  },
+  "resonant_flow": {
+   "rms": 0.0967,
+   "peak": 2.4,
+   "centroid_hz": 1174,
+   "crest_db": 27.9
+  },
+  "frames_limited": [
+   138,
+   8999
+  ]
+ }
+}

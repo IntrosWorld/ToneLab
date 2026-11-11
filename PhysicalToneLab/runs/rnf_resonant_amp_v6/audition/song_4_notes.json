@@ -1,0 +1,30 @@
+{
+ "song_4_resonant_flow_full_audio.wav": {
+  "rms": 0.0806,
+  "peak": 0.385,
+  "centroid_hz": 1117,
+  "crest_db": 13.6,
+  "frames_limited": [
+   0,
+   2567
+  ],
+  "waveform_error_vs_previous_amp": 0.11
+ },
+ "song_4_resonant_flow_full_audio_input-6dB.wav": {
+  "rms": 0.0783,
+  "peak": 0.383,
+  "centroid_hz": 1075,
+  "crest_db": 13.8,
+  "frames_limited": [
+   0,
+   5134
+  ],
+  "waveform_error_vs_previous_amp": 0.188
+ },
+ "previous_amp": {
+  "rms": 0.0863,
+  "peak": 0.481,
+  "centroid_hz": 1409,
+  "crest_db": 14.9
+ }
+}

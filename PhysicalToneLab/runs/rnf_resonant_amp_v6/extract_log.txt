@@ -1,0 +1,24 @@
+{'file': 'expressive_00', 'split': 'train', 'frames': 1288, 'pitched': 595, 'kept': 427, 'target_harmonic_residual_median': 0.038545432552998096}
+{'file': 'expressive_01', 'split': 'train', 'frames': 1288, 'pitched': 499, 'kept': 316, 'target_harmonic_residual_median': 0.04686210107492318}
+{'file': 'expressive_02', 'split': 'train', 'frames': 1288, 'pitched': 794, 'kept': 508, 'target_harmonic_residual_median': 0.051937970447047906}
+{'file': 'expressive_03', 'split': 'train', 'frames': 1288, 'pitched': 473, 'kept': 311, 'target_harmonic_residual_median': 0.03718438441690568}
+{'file': 'expressive_04', 'split': 'train', 'frames': 1288, 'pitched': 473, 'kept': 268, 'target_harmonic_residual_median': 0.08472793546896687}
+{'file': 'expressive_05', 'split': 'train', 'frames': 1288, 'pitched': 682, 'kept': 444, 'target_harmonic_residual_median': 0.05071100434340749}
+{'file': 'expressive_06', 'split': 'train', 'frames': 1288, 'pitched': 659, 'kept': 399, 'target_harmonic_residual_median': 0.07740282841489687}
+{'file': 'expressive_07', 'split': 'train', 'frames': 1288, 'pitched': 568, 'kept': 379, 'target_harmonic_residual_median': 0.07483629301251898}
+{'file': 'expressive_08', 'split': 'train', 'frames': 1288, 'pitched': 654, 'kept': 346, 'target_harmonic_residual_median': 0.06634046638404356}
+{'file': 'expressive_09', 'split': 'train', 'frames': 1288, 'pitched': 501, 'kept': 305, 'target_harmonic_residual_median': 0.0457916239224533}
+{'file': 'expressive_10', 'split': 'train', 'frames': 1288, 'pitched': 565, 'kept': 373, 'target_harmonic_residual_median': 0.0719165747983373}
+{'file': 'expressive_11', 'split': 'train', 'frames': 1288, 'pitched': 646, 'kept': 424, 'target_harmonic_residual_median': 0.0510377270655425}
+{'file': 'validation_9101', 'split': 'validation', 'frames': 858, 'pitched': 322, 'kept': 187, 'target_harmonic_residual_median': 0.05875275815492159}
+{'file': 'validation_9102', 'split': 'validation', 'frames': 858, 'pitched': 314, 'kept': 189, 'target_harmonic_residual_median': 0.05530026524457226}
+{'file': 'test_10101', 'split': 'test', 'frames': 858, 'pitched': 481, 'kept': 318, 'target_harmonic_residual_median': 0.02068834456453521}
+{'file': 'redbone_manuel', 'split': 'test', 'frames': 1805, 'pitched': 570, 'kept': 389, 'target_harmonic_residual_median': 0.11768088640143905}
+{'file': 'redbone_thedooo', 'split': 'test', 'frames': 1814, 'pitched': 1353, 'kept': 940, 'target_harmonic_residual_median': 0.04368888661347503}
+{'file': 'source_variation_18100', 'split': 'train', 'frames': 1288, 'pitched': 601, 'kept': 448, 'target_harmonic_residual_median': 0.03351378471912152}
+{'file': 'source_variation_18101', 'split': 'train', 'frames': 1288, 'pitched': 733, 'kept': 435, 'target_harmonic_residual_median': 0.04844053758269283}
+{'file': 'source_variation_18102', 'split': 'train', 'frames': 1288, 'pitched': 553, 'kept': 316, 'target_harmonic_residual_median': 0.05720935790756809}
+{'file': 'source_variation_18103', 'split': 'train', 'frames': 1288, 'pitched': 741, 'kept': 420, 'target_harmonic_residual_median': 0.05300364150653332}
+{'file': 'source_variation_18104', 'split': 'train', 'frames': 1288, 'pitched': 590, 'kept': 348, 'target_harmonic_residual_median': 0.0885803539580081}
+{'file': 'source_variation_18105', 'split': 'train', 'frames': 1288, 'pitched': 667, 'kept': 418, 'target_harmonic_residual_median': 0.06754926035023759}
+frames train/val/test [6885, 376, 1647]

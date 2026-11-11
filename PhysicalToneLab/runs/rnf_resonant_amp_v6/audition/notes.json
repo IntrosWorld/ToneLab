@@ -1,0 +1,65 @@
+{
+ "note": "10 longest steady single-note stretches of the TEST performances, 0.25 s gaps. C is rebuilt from predicted harmonics only (no pick noise, nothing above 8 kHz). Not listened to by the assistant.",
+ "excerpts": [
+  {
+   "file": "test_10101",
+   "start_s": 16.718367346938777,
+   "seconds": 1.0216780045351475,
+   "f0_hz": 622.4610332497875
+  },
+  {
+   "file": "test_10101",
+   "start_s": 17.832925170068027,
+   "seconds": 1.3467573696145125,
+   "f0_hz": 554.5412882825259
+  },
+  {
+   "file": "redbone_thedooo",
+   "start_s": 2.6238548752834467,
+   "seconds": 1.1377777777777778,
+   "f0_hz": 294.0143565381526
+  },
+  {
+   "file": "redbone_thedooo",
+   "start_s": 8.614603174603175,
+   "seconds": 0.7662585034013606,
+   "f0_hz": 392.4568450607346
+  },
+  {
+   "file": "redbone_thedooo",
+   "start_s": 9.58984126984127,
+   "seconds": 0.9287981859410431,
+   "f0_hz": 349.5426209917525
+  },
+  {
+   "file": "redbone_thedooo",
+   "start_s": 17.99546485260771,
+   "seconds": 1.1377777777777778,
+   "f0_hz": 440.484143840873
+  },
+  {
+   "file": "redbone_thedooo",
+   "start_s": 23.986213151927437,
+   "seconds": 1.3467573696145125,
+   "f0_hz": 859.3040062531364
+  },
+  {
+   "file": "redbone_thedooo",
+   "start_s": 30.37170068027211,
+   "seconds": 0.9520181405895691,
+   "f0_hz": 349.5561196808983
+  },
+  {
+   "file": "redbone_thedooo",
+   "start_s": 32.62403628117914,
+   "seconds": 1.1377777777777778,
+   "f0_hz": 147.5991968907693
+  },
+  {
+   "file": "redbone_thedooo",
+   "start_s": 35.99092970521542,
+   "seconds": 2.2755555555555556,
+   "f0_hz": 220.02448551126082
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+F:\College\projects\VLSI\PhysicalToneLab\runs\rnf_resonant_amp_v6\train.py:43: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\torch\csrc\autograd\generated\python_variable_methods.cpp:836.)
+  v = esr(model, *val); log.append((step, float(loss), v))
+blackbox_small seed 2 step 200 loss 1.7007 val 1.3347 best 1.3347 4s
+blackbox_small seed 2 step 400 loss 1.1675 val 0.9394 best 0.9394 8s
+blackbox_small seed 2 step 600 loss 1.0839 val 0.8658 best 0.8658 12s
+blackbox_small seed 2 step 800 loss 1.0184 val 0.8268 best 0.8268 17s
+blackbox_small seed 2 step 1000 loss 0.9664 val 0.7543 best 0.7543 21s
+blackbox_small seed 2 step 1200 loss 0.8895 val 0.6992 best 0.6992 25s
+blackbox_small seed 2 step 1400 loss 0.8360 val 0.6609 best 0.6609 29s
+blackbox_small seed 2 step 1600 loss 0.7847 val 0.6295 best 0.6295 33s
+blackbox_small seed 2 step 1800 loss 0.7533 val 0.6078 best 0.6078 38s
+blackbox_small seed 2 step 2000 loss 0.7431 val 0.5905 best 0.5905 41s
+blackbox_small seed 2 step 2200 loss 0.7005 val 0.5838 best 0.5838 45s
+blackbox_small seed 2 step 2400 loss 0.6985 val 0.5746 best 0.5746 49s
+blackbox_small seed 2 step 2600 loss 0.6882 val 0.5639 best 0.5639 54s
+blackbox_small seed 2 step 2800 loss 0.6988 val 0.5564 best 0.5564 58s
+blackbox_small seed 2 step 3000 loss 0.6775 val 0.5471 best 0.5471 62s
+blackbox_small seed 2 step 3200 loss 0.6689 val 0.5400 best 0.5400 66s
+blackbox_small seed 2 step 3400 loss 0.6552 val 0.5372 best 0.5372 70s
+blackbox_small seed 2 step 3600 loss 0.6798 val 0.5332 best 0.5332 73s
+blackbox_small seed 2 step 3800 loss 0.6781 val 0.5289 best 0.5289 77s
+blackbox_small seed 2 step 4000 loss 0.6129 val 0.5248 best 0.5248 81s
+blackbox_small seed 2 step 4200 loss 0.6726 val 0.5249 best 0.5248 85s
+blackbox_small seed 2 step 4400 loss 0.6421 val 0.5221 best 0.5221 89s
+blackbox_small seed 2 step 4600 loss 0.6840 val 0.5206 best 0.5206 93s
+blackbox_small seed 2 step 4800 loss 0.6297 val 0.5200 best 0.5200 96s
+blackbox_small seed 2 step 5000 loss 0.6660 val 0.5191 best 0.5191 100s
+blackbox_small seed 2 step 5200 loss 0.6667 val 0.5186 best 0.5186 104s
+blackbox_small seed 2 step 5400 loss 0.6893 val 0.5184 best 0.5184 108s
+blackbox_small seed 2 step 5600 loss 0.6753 val 0.5183 best 0.5183 112s
+blackbox_small seed 2 step 5800 loss 0.6677 val 0.5183 best 0.5183 115s
+blackbox_small seed 2 step 6000 loss 0.6983 val 0.5183 best 0.5183 119s

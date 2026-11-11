@@ -1,0 +1,33 @@
+{
+ "frames": 1284,
+ "pitched": 831,
+ "pitch_borrowed_from_neighbour": 44,
+ "silent_or_unpitched": 409,
+ "input_not_captured_by_one_pitch_median": 0.00875766186131048,
+ "frames_over_10_percent_uncaptured": 156,
+ "input_peak": 0.33569496870040894,
+ "clean": {
+  "seconds": 29.7,
+  "rms": 0.0965,
+  "peak": 0.336,
+  "centroid_hz": 470,
+  "crest_db": 10.8
+ },
+ "previous_amp": {
+  "seconds": 29.7,
+  "rms": 0.0863,
+  "peak": 0.481,
+  "centroid_hz": 1409,
+  "crest_db": 14.9
+ },
+ "resonant_flow": {
+  "seconds": 29.7,
+  "rms": 0.0752,
+  "peak": 0.278,
+  "centroid_hz": 956,
+  "crest_db": 11.4
+ },
+ "level_envelope_correlation_with_previous_amp": 0.973,
+ "waveform_error_vs_previous_amp": 0.227,
+ "note": "song_2 is the earlier neural amp (dry, mono) on the same notes. Not listened to by the assistant."
+}
