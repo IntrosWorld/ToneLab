@@ -1,0 +1,12 @@
+base-delay search: mean error 0.7724 at 5.5 ms
+start: median note error 0.6271
+F:\College\projects\VLSI\PhysicalToneLab\runs\rnf_instruments_v7\tones\chorus.py:92: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\torch\csrc\autograd\generated\python_variable_methods.cpp:836.)
+  print(f'chorus step {step} loss {loss.item():.4f} val median {v:.4f} d0 {float(m.d0):.3f} rate {float(m.rate):.4f} depth {float(m.depth):.3f}', flush=True)
+chorus step 250 loss 0.1888 val median 0.2176 d0 5.500 rate 2.1635 depth 0.984
+chorus step 500 loss 0.1591 val median 0.1147 d0 5.482 rate 2.1611 depth 0.982
+chorus step 750 loss 0.2235 val median 0.1093 d0 5.457 rate 2.1624 depth 0.982
+chorus step 1000 loss 0.0847 val median 0.1045 d0 5.449 rate 2.1621 depth 0.979
+chorus step 1250 loss 0.2473 val median 0.1057 d0 5.441 rate 2.1621 depth 0.980
+chorus step 1500 loss 0.1582 val median 0.1082 d0 5.440 rate 2.1619 depth 0.979
+static filter final loss 0.5375

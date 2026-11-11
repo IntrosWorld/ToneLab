@@ -1,0 +1,18 @@
+F:\College\projects\VLSI\PhysicalToneLab\runs\rnf_resonant_amp_v6\train.py:43: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\torch\csrc\autograd\generated\python_variable_methods.cpp:836.)
+  v = esr(model, *val); log.append((step, float(loss), v))
+wiener_hammerstein seed 1 step 200 loss 0.1727 val 0.1538 best 0.1538 17s
+wiener_hammerstein seed 1 step 400 loss 0.1772 val 0.1501 best 0.1501 33s
+wiener_hammerstein seed 1 step 600 loss 0.1697 val 0.1500 best 0.1500 50s
+wiener_hammerstein seed 1 step 800 loss 0.1673 val 0.1494 best 0.1494 66s
+wiener_hammerstein seed 1 step 1000 loss 0.1783 val 0.1472 best 0.1472 82s
+wiener_hammerstein seed 1 step 1200 loss 0.1677 val 0.1481 best 0.1472 99s
+wiener_hammerstein seed 1 step 1400 loss 0.1720 val 0.1472 best 0.1472 115s
+wiener_hammerstein seed 1 step 1600 loss 0.1569 val 0.1467 best 0.1467 130s
+wiener_hammerstein seed 1 step 1800 loss 0.1717 val 0.1457 best 0.1457 143s
+wiener_hammerstein seed 1 step 2000 loss 0.1699 val 0.1466 best 0.1457 155s
+wiener_hammerstein seed 1 step 2200 loss 0.1608 val 0.1457 best 0.1457 169s
+wiener_hammerstein seed 1 step 2400 loss 0.1650 val 0.1459 best 0.1457 184s
+wiener_hammerstein seed 1 step 2600 loss 0.1699 val 0.1455 best 0.1455 199s
+wiener_hammerstein seed 1 step 2800 loss 0.1724 val 0.1454 best 0.1454 214s
+wiener_hammerstein seed 1 step 3000 loss 0.1682 val 0.1456 best 0.1454 230s

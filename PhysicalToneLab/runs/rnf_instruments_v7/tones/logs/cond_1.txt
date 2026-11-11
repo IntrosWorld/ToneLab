@@ -1,0 +1,12 @@
+cond seed 1 step 250 loss 0.1749 val 0.1272 best 0.1272 229s
+cond seed 1 step 500 loss 0.0909 val 0.0650 best 0.0650 460s
+cond seed 1 step 750 loss 0.0811 val 0.0538 best 0.0538 696s
+cond seed 1 step 1000 loss 0.0756 val 0.0541 best 0.0538 936s
+cond seed 1 step 1250 loss 0.0682 val 0.0534 best 0.0534 1170s
+cond seed 1 step 1500 loss 0.0783 val 0.0515 best 0.0515 1408s
+cond seed 1 step 1750 loss 0.0640 val 0.0506 best 0.0506 1643s
+cond seed 1 step 2000 loss 0.0757 val 0.0501 best 0.0501 1880s
+cond seed 1 step 2250 loss 0.0753 val 0.0500 best 0.0500 2118s
+cond seed 1 step 2500 loss 0.0712 val 0.0498 best 0.0498 2356s
+cond seed 1 step 2750 loss 0.0711 val 0.0500 best 0.0498 2563s
+cond seed 1 step 3000 loss 0.0715 val 0.0498 best 0.0498 2766s
