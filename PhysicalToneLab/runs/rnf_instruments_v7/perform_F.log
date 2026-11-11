@@ -1,0 +1,2 @@
+notes 1363 distinct renders 53
+{"midi": "demo10.mid", "seconds": 120.0, "settings": {"bass_db": 14.0, "bass_hz": 220.0, "air_db": 6.0, "air_hz": 2500.0, "room_mix": 0.22}, "band_db": {"20": -28.6, "60": -12.0, "120": -5.4, "250": -8.0, "500": -3.3, "1000": -16.3, "2000": -30.0, "4000": -38.2}, "left_right_correlation": 0.333, "nan": false, "note": "bass, air and room are listening settings, not learned; not listened to by the assistant"}

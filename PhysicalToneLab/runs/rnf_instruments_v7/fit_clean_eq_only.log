@@ -1,0 +1,11 @@
+eq_only fit frames 4536 held frames 1512 engine unprocessed, held: 3.0965
+eq_only step 200 loss 2.6991 held 2.7465 best 2.7465 18s
+eq_only step 400 loss 2.4674 held 2.5004 best 2.5004 40s
+eq_only step 600 loss 2.4579 held 2.4616 best 2.4616 63s
+eq_only step 800 loss 2.4211 held 2.4396 best 2.4396 85s
+eq_only step 1000 loss 2.2796 held 2.4264 best 2.4264 108s
+eq_only step 1200 loss 2.4111 held 2.4192 best 2.4192 132s
+eq_only step 1400 loss 2.3605 held 2.4170 best 2.4170 156s
+eq_only step 1600 loss 2.3776 held 2.4089 best 2.4089 182s
+eq_only step 1800 loss 2.3308 held 2.4095 best 2.4089 208s
+eq_only step 2000 loss 2.2975 held 2.4086 best 2.4086 238s

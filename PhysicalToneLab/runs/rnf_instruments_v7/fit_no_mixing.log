@@ -1,0 +1,16 @@
+no_mixing fit frames 9180 held frames 3059 held pitches [33, 45, 57, 69, 81, 93] engine unprocessed, held: 2.0688
+F:\College\projects\VLSI\PhysicalToneLab\runs\rnf_instruments_v7\piano_flow.py:104: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\torch\csrc\autograd\generated\python_variable_methods.cpp:836.)
+  v = score(model, Eh, Rh); log.append((step, float(loss), v))
+no_mixing step 100 loss 1.9907 held 1.9526 best 1.9526 7s
+no_mixing step 200 loss 1.8966 held 1.8849 best 1.8849 14s
+no_mixing step 300 loss 1.8541 held 1.8649 best 1.8649 24s
+no_mixing step 400 loss 1.8163 held 1.8533 best 1.8533 36s
+no_mixing step 500 loss 1.7687 held 1.8317 best 1.8317 45s
+no_mixing step 600 loss 1.8950 held 1.8101 best 1.8101 55s
+no_mixing step 700 loss 1.8290 held 1.7965 best 1.7965 64s
+no_mixing step 800 loss 1.7831 held 1.7908 best 1.7908 73s
+no_mixing step 900 loss 1.7230 held 1.7844 best 1.7844 82s
+no_mixing step 1000 loss 1.7116 held 1.7881 best 1.7844 92s
+no_mixing step 1100 loss 1.7342 held 1.7848 best 1.7844 102s
+no_mixing step 1200 loss 1.7758 held 1.7849 best 1.7844 112s

@@ -1,0 +1,32 @@
+{
+ "drums_tab2_1_engine_only": {
+  "band_db": {
+   "30": -4.9,
+   "60": -6.2,
+   "120": -6.5,
+   "250": -14.3,
+   "500": -24.5,
+   "1000": -20.8,
+   "2000": -16.2,
+   "4000": -12.2,
+   "8000": -11.1
+  },
+  "nan": false
+ },
+ "drums_tab2_2_flow": {
+  "band_db": {
+   "30": -7.6,
+   "60": -5.8,
+   "120": -6.6,
+   "250": -11.1,
+   "500": -17.0,
+   "1000": -18.2,
+   "2000": -14.5,
+   "4000": -10.8,
+   "8000": -9.5
+  },
+  "nan": false
+ },
+ "hits": 103,
+ "note": "kick, snare, hi-hat through the per-hit flow; crash as the engine makes it; not listened to by the assistant"
+}

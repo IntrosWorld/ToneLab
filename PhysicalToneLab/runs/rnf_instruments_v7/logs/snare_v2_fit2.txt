@@ -1,0 +1,11 @@
+fit frames 6650 held frames 1560 engine unprocessed, held: 8.3775
+drum step 300 loss 2.0643 held 2.2984 best 2.2984 40s
+drum step 600 loss 1.9697 held 2.2393 best 2.2393 82s
+drum step 900 loss 2.0320 held 2.2287 best 2.2287 129s
+drum step 1200 loss 1.9848 held 2.2444 best 2.2287 178s
+drum step 1500 loss 1.9476 held 2.2331 best 2.2287 213s
+drum step 1800 loss 2.0190 held 2.2359 best 2.2287 254s
+drum step 2100 loss 2.0586 held 2.2426 best 2.2287 297s
+drum step 2400 loss 1.9473 held 2.2345 best 2.2287 341s
+drum step 2700 loss 1.9948 held 2.2383 best 2.2287 386s
+drum step 3000 loss 1.9322 held 2.2360 best 2.2287 420s

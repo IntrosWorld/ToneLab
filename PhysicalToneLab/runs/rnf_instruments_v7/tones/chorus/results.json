@@ -1,0 +1,39 @@
+{
+ "held_out_notes": 24,
+ "waveform_error_median": {
+  "clean_as_output": 0.64,
+  "static_filter": 0.473,
+  "modulated_delay": 0.096
+ },
+ "waveform_error_mean": {
+  "clean_as_output": 0.631,
+  "static_filter": 0.498,
+  "modulated_delay": 0.11
+ },
+ "modulated_delay_worst_note": [
+  "6-8",
+  0.323
+ ],
+ "modulated_delay_after_1p5s_median": 0.082,
+ "parameters": 75,
+ "learned": {
+  "base_delay_ms": 5.449,
+  "rate_hz": 2.1621,
+  "delay_swing_ms": [
+   4.32,
+   6.49
+  ],
+  "depth_ms": 0.979,
+  "shape_ms": [
+   [
+    0.006000000052154064,
+    -0.10599999874830246
+   ],
+   [
+    0.039000000804662704,
+    0.0
+   ]
+  ]
+ },
+ "note": "swing position of each held-out note found by search on its first 1.5 s; error is over the whole 4.3 s, and separately over the part after 1.5 s that the search did not see"
+}

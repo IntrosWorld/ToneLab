@@ -1,0 +1,11 @@
+flow fit frames 4536 held frames 1512 engine unprocessed, held: 3.0965
+flow step 200 loss 2.5453 held 2.6194 best 2.6194 89s
+flow step 400 loss 2.2844 held 2.3602 best 2.3602 191s
+flow step 600 loss 2.2630 held 2.3105 best 2.3105 283s
+flow step 800 loss 2.2674 held 2.2910 best 2.2910 352s
+flow step 1000 loss 2.0985 held 2.2897 best 2.2897 407s
+flow step 1200 loss 2.2163 held 2.2930 best 2.2897 469s
+flow step 1400 loss 2.2159 held 2.2812 best 2.2812 535s
+flow step 1600 loss 2.2599 held 2.2896 best 2.2812 607s
+flow step 1800 loss 2.2149 held 2.2862 best 2.2812 662s
+flow step 2000 loss 2.1593 held 2.2866 best 2.2812 725s

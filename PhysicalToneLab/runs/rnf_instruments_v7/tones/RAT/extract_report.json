@@ -1,0 +1,14 @@
+{
+ "tone": "RAT",
+ "files": 138,
+ "delay_samples": 0,
+ "frames": 29251,
+ "pitched": 13048,
+ "kept": 12745,
+ "target_harmonic_residual_median": 0.007807943033786653,
+ "split_frames": [
+  9406,
+  1194,
+  2145
+ ]
+}

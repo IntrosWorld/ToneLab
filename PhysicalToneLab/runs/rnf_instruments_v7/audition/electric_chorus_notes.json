@@ -1,0 +1,16 @@
+{
+ "electric_chorus_1_engine_only": {
+  "seconds": 15.5,
+  "nan": false,
+  "rms": 0.116,
+  "left_right_correlation": 0.884
+ },
+ "electric_chorus_2_flow_learned": {
+  "seconds": 15.5,
+  "nan": false,
+  "rms": 0.108,
+  "left_right_correlation": 0.981
+ },
+ "notes": 47,
+ "note": "each file peak-normalised; not listened to by the assistant"
+}

@@ -1,0 +1,35 @@
+{
+ "midi": "demo10.mid",
+ "seconds": 120.0,
+ "notes": 1363,
+ "sustain_pedal_spans": 0,
+ "note": "pedal spans are not applied here; notes are rendered one by one, dry, mono",
+ "engine_only": {
+  "band_db": {
+   "20": -27.7,
+   "60": -9.6,
+   "120": -2.5,
+   "250": -6.5,
+   "500": -10.6,
+   "1000": -19.4,
+   "2000": -23.9,
+   "4000": -29.9
+  },
+  "peak_before_normalising": 0.45546823622341037,
+  "nan": false
+ },
+ "C_low_notes_fixed_engine_bass": {
+  "band_db": {
+   "20": -40.6,
+   "60": -23.5,
+   "120": -9.9,
+   "250": -6.5,
+   "500": -1.9,
+   "1000": -17.0,
+   "2000": -30.5,
+   "4000": -45.2
+  },
+  "peak_before_normalising": 2.880044484794098,
+  "nan": false
+ }
+}

@@ -1,0 +1,16 @@
+eq_only fit frames 9180 held frames 3059 held pitches [33, 45, 57, 69, 81, 93] engine unprocessed, held: 2.0688
+F:\College\projects\VLSI\PhysicalToneLab\runs\rnf_instruments_v7\piano_flow.py:101: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\torch\csrc\autograd\generated\python_variable_methods.cpp:836.)
+  v = score(model, Eh, Rh); log.append((step, float(loss), v))
+eq_only step 100 loss 2.0268 held 1.9879 best 1.9879 1s
+eq_only step 200 loss 1.8957 held 1.8728 best 1.8728 3s
+eq_only step 300 loss 1.8522 held 1.8634 best 1.8634 4s
+eq_only step 400 loss 1.8252 held 1.8602 best 1.8602 6s
+eq_only step 500 loss 1.7984 held 1.8593 best 1.8593 7s
+eq_only step 600 loss 1.9215 held 1.8615 best 1.8593 8s
+eq_only step 700 loss 1.9110 held 1.8595 best 1.8593 10s
+eq_only step 800 loss 1.8430 held 1.8440 best 1.8440 12s
+eq_only step 900 loss 1.7541 held 1.8280 best 1.8280 13s
+eq_only step 1000 loss 1.7410 held 1.8248 best 1.8248 15s
+eq_only step 1100 loss 1.7497 held 1.8210 best 1.8210 17s
+eq_only step 1200 loss 1.8176 held 1.8207 best 1.8207 19s

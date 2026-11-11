@@ -1,0 +1,11 @@
+fit frames 2570 held frames 1028 engine unprocessed, held: 3.7235
+crash step 300 loss 1.5785 held 2.0490 best 2.0490 35s
+crash step 600 loss 1.5043 held 1.9083 best 1.9083 69s
+crash step 900 loss 1.5734 held 1.9500 best 1.9083 105s
+crash step 1200 loss 1.5278 held 1.9482 best 1.9083 150s
+crash step 1500 loss 1.5288 held 1.9171 best 1.9083 184s
+crash step 1800 loss 1.5432 held 1.9508 best 1.9083 221s
+crash step 2100 loss 1.5346 held 1.9158 best 1.9083 260s
+crash step 2400 loss 1.5460 held 1.9382 best 1.9083 304s
+crash step 2700 loss 1.5469 held 1.9315 best 1.9083 335s
+crash step 3000 loss 1.5243 held 1.9372 best 1.9083 370s

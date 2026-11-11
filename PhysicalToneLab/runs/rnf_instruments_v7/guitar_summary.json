@@ -1,0 +1,45 @@
+{
+ "bands_from_hz": [
+  160,
+  320,
+  640,
+  1280,
+  2560,
+  5120
+ ],
+ "engine_minus_real_mean": [
+  -0.0,
+  4.2,
+  2.9,
+  6.7,
+  1.9,
+  -4.8
+ ],
+ "model_minus_real_mean": [
+  3.7,
+  2.5,
+  -1.1,
+  3.3,
+  3.7,
+  4.0
+ ],
+ "engine_mean_abs": [
+  3.4,
+  9.6,
+  4.8,
+  6.9,
+  5.4,
+  9.1
+ ],
+ "model_mean_abs": [
+  4.1,
+  5.5,
+  4.4,
+  4.6,
+  5.2,
+  6.8
+ ],
+ "engine_overall": 6.98,
+ "model_overall": 5.28,
+ "held_notes": 104
+}

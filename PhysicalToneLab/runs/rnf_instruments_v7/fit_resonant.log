@@ -1,0 +1,16 @@
+resonant fit frames 9180 held frames 3059 held pitches [33, 45, 57, 69, 81, 93] engine unprocessed, held: 2.0688
+F:\College\projects\VLSI\PhysicalToneLab\runs\rnf_instruments_v7\piano_flow.py:101: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at C:\actions-runner\_work\pytorch\pytorch\pytorch\torch\csrc\autograd\generated\python_variable_methods.cpp:836.)
+  v = score(model, Eh, Rh); log.append((step, float(loss), v))
+resonant step 100 loss 1.6694 held 1.6837 best 1.6837 53s
+resonant step 200 loss 1.4015 held 1.4672 best 1.4672 111s
+resonant step 300 loss 1.3871 held 1.4219 best 1.4219 156s
+resonant step 400 loss 1.3422 held 1.4212 best 1.4212 212s
+resonant step 500 loss 1.2438 held 1.3924 best 1.3924 258s
+resonant step 600 loss 1.4580 held 1.4031 best 1.3924 313s
+resonant step 700 loss 1.3087 held 1.3975 best 1.3924 381s
+resonant step 800 loss 1.3917 held 1.4023 best 1.3924 429s
+resonant step 900 loss 1.2224 held 1.4036 best 1.3924 476s
+resonant step 1000 loss 1.2579 held 1.3998 best 1.3924 522s
+resonant step 1100 loss 1.3623 held 1.3987 best 1.3924 574s
+resonant step 1200 loss 1.3773 held 1.3962 best 1.3924 627s

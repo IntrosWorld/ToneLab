@@ -1,0 +1,29 @@
+{
+ "song_RAT_v2_input_matched_level0.013.flac": {
+  "frames_limited": [
+   155,
+   2567
+  ],
+  "peak_before_ceiling": 2.87,
+  "level_while_playing_min_median_max": [
+   0.14,
+   0.48,
+   0.56
+  ],
+  "crest_db": 8.1
+ },
+ "song_RAT_v2_input_matched_level0.008.flac": {
+  "frames_limited": [
+   76,
+   2567
+  ],
+  "peak_before_ceiling": 2.25,
+  "level_while_playing_min_median_max": [
+   0.19,
+   0.5,
+   0.59
+  ],
+  "crest_db": 7.6
+ },
+ "note": "not listened to by the assistant"
+}

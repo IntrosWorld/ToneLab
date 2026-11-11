@@ -1,0 +1,24 @@
+{
+ "midi": "demo10.mid",
+ "seconds": 120.0,
+ "settings": {
+  "bass_db": 15.0,
+  "bass_hz": 300.0,
+  "air_db": 12.0,
+  "air_hz": 2000.0,
+  "room_mix": 0.22
+ },
+ "band_db": {
+  "20": -28.2,
+  "60": -11.6,
+  "120": -4.6,
+  "250": -8.0,
+  "500": -4.0,
+  "1000": -16.8,
+  "2000": -29.4,
+  "4000": -34.0
+ },
+ "left_right_correlation": 0.366,
+ "nan": false,
+ "note": "bass, air and room are listening settings, not learned; not listened to by the assistant"
+}

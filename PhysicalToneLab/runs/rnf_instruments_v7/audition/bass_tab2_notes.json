@@ -1,0 +1,30 @@
+{
+ "bass_tab2_1_engine_only": {
+  "band_db": {
+   "35": -9.6,
+   "70": -2.0,
+   "140": -7.5,
+   "280": -11.4,
+   "560": -19.6,
+   "1120": -49.1,
+   "2240": -67.4,
+   "4480": -84.3
+  },
+  "nan": false
+ },
+ "bass_tab2_2_flow": {
+  "band_db": {
+   "35": -7.6,
+   "70": -3.2,
+   "140": -4.9,
+   "280": -16.1,
+   "560": -27.7,
+   "1120": -45.6,
+   "2240": -46.3,
+   "4480": -59.2
+  },
+  "nan": false
+ },
+ "notes": 41,
+ "note": "engine body/cabinet/compressor chain applied after the per-note flow; not listened to by the assistant"
+}

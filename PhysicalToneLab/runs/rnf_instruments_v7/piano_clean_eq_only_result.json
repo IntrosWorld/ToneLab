@@ -1,0 +1,7 @@
+{
+ "arm": "eq_only",
+ "engine_unprocessed_held": 3.096520105997721,
+ "held_error": 2.408636689186096,
+ "best_step": 2000,
+ "parameters": 2865
+}

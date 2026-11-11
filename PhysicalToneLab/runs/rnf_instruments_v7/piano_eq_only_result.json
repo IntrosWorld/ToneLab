@@ -1,0 +1,15 @@
+{
+ "arm": "eq_only",
+ "engine_unprocessed_held": 2.0688045024871826,
+ "held_error": 1.8206939101219177,
+ "best_step": 1200,
+ "held_pitches": [
+  33,
+  45,
+  57,
+  69,
+  81,
+  93
+ ],
+ "parameters": 3696
+}

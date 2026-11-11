@@ -1,0 +1,62 @@
+{
+ "t=0.0": {
+  "engine_minus_real": [
+   -1.0,
+   -0.5,
+   1.4,
+   1.5,
+   0.8,
+   5.0,
+   11.7
+  ],
+  "model_minus_real": [
+   0.0,
+   0.3,
+   0.2,
+   -0.6,
+   2.1,
+   3.6,
+   -0.1
+  ],
+  "engine_mean_abs": 4.35,
+  "model_mean_abs": 3.16,
+  "held_notes": 34
+ },
+ "t=1.0": {
+  "engine_minus_real": [
+   2.4,
+   3.5,
+   1.1,
+   10.3,
+   10.2,
+   7.2,
+   16.2
+  ],
+  "model_minus_real": [
+   0.1,
+   2.8,
+   -2.6,
+   2.6,
+   6.2,
+   1.4,
+   1.8
+  ],
+  "engine_mean_abs": 8.94,
+  "model_mean_abs": 6.63,
+  "held_notes": 34
+ },
+ "level_change_0.25_to_1.7s_db": {
+  "engine": -13.3,
+  "model": -17.3,
+  "real": -17.2
+ },
+ "bands_from_hz": [
+  70,
+  140,
+  280,
+  560,
+  1120,
+  2240,
+  4480
+ ]
+}

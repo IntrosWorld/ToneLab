@@ -1,0 +1,11 @@
+fit frames 10813 held frames 3536 engine unprocessed, held: 2.7759
+electric_clean_flow step 300 loss 1.4789 held 2.7378 best 2.7378 33s
+electric_clean_flow step 600 loss 1.3211 held 2.5840 best 2.5840 76s
+electric_clean_flow step 900 loss 1.2715 held 2.5887 best 2.5840 108s
+electric_clean_flow step 1200 loss 1.3251 held 2.6005 best 2.5840 137s
+electric_clean_flow step 1500 loss 1.5003 held 2.5928 best 2.5840 169s
+electric_clean_flow step 1800 loss 1.2992 held 2.5890 best 2.5840 203s
+electric_clean_flow step 2100 loss 1.1856 held 2.5890 best 2.5840 245s
+electric_clean_flow step 2400 loss 1.3908 held 2.5902 best 2.5840 299s
+electric_clean_flow step 2700 loss 1.3128 held 2.5879 best 2.5840 357s
+electric_clean_flow step 3000 loss 1.3354 held 2.5902 best 2.5840 423s

@@ -1,0 +1,28 @@
+{
+ "guitar_arpeggio_1_engine_only": {
+  "band_db": {
+   "60": -17.0,
+   "120": -1.9,
+   "250": -8.9,
+   "500": -10.3,
+   "1000": -10.5,
+   "2000": -16.5,
+   "4000": -29.0
+  },
+  "nan": false
+ },
+ "guitar_arpeggio_2_flow": {
+  "band_db": {
+   "60": -13.6,
+   "120": -1.1,
+   "250": -9.3,
+   "500": -16.7,
+   "1000": -16.5,
+   "2000": -19.4,
+   "4000": -24.8
+  },
+  "nan": false
+ },
+ "notes": 67,
+ "note": "per-note render, stereo, engine room; not listened to by the assistant"
+}

@@ -1,0 +1,111 @@
+{
+ "BluesDriver": {
+  "seed": 2,
+  "input_gain": 1.0,
+  "ceiling": 0.926,
+  "heldout_peak_before_ceiling": 5.38,
+  "song_peak_before_ceiling": 0.9,
+  "heldout_waveform_error": 0.046,
+  "heldout_clean_as_output": 0.712,
+  "real_pedal": {
+   "rms": 0.5114,
+   "peak": 0.919,
+   "centroid_hz": 772,
+   "crest_db": 5.1
+  },
+  "resonant_flow": {
+   "rms": 0.4798,
+   "peak": 0.926,
+   "centroid_hz": 676,
+   "crest_db": 5.7
+  },
+  "heldout_frames_limited": [
+   10,
+   2688
+  ],
+  "song": {
+   "rms": 0.4341,
+   "peak": 0.897,
+   "centroid_hz": 528,
+   "crest_db": 6.3
+  },
+  "song_frames_limited": [
+   2,
+   2567
+  ],
+  "nan": false
+ },
+ "TubeScreamer": {
+  "seed": 1,
+  "input_gain": 1.0,
+  "ceiling": 0.893,
+  "heldout_peak_before_ceiling": 5.42,
+  "song_peak_before_ceiling": 5.59,
+  "heldout_waveform_error": 0.09,
+  "heldout_clean_as_output": 0.404,
+  "real_pedal": {
+   "rms": 0.1695,
+   "peak": 0.891,
+   "centroid_hz": 648,
+   "crest_db": 14.4
+  },
+  "resonant_flow": {
+   "rms": 0.1609,
+   "peak": 0.893,
+   "centroid_hz": 633,
+   "crest_db": 14.9
+  },
+  "heldout_frames_limited": [
+   15,
+   2688
+  ],
+  "song": {
+   "rms": 0.2468,
+   "peak": 0.893,
+   "centroid_hz": 580,
+   "crest_db": 11.2
+  },
+  "song_frames_limited": [
+   48,
+   2567
+  ],
+  "nan": false
+ },
+ "RAT": {
+  "seed": 1,
+  "input_gain": 0.5,
+  "ceiling": 1.01,
+  "heldout_peak_before_ceiling": 2.64,
+  "song_peak_before_ceiling": 3.01,
+  "heldout_waveform_error": 0.158,
+  "heldout_clean_as_output": 0.724,
+  "real_pedal": {
+   "rms": 0.5468,
+   "peak": 1.004,
+   "centroid_hz": 738,
+   "crest_db": 5.3
+  },
+  "resonant_flow": {
+   "rms": 0.4658,
+   "peak": 1.01,
+   "centroid_hz": 749,
+   "crest_db": 6.7
+  },
+  "heldout_frames_limited": [
+   486,
+   2688
+  ],
+  "song": {
+   "rms": 0.2457,
+   "peak": 1.01,
+   "centroid_hz": 550,
+   "crest_db": 12.3
+  },
+  "song_frames_limited": [
+   817,
+   2567
+  ],
+  "nan": false
+ },
+ "note": "each file peak-normalised for listening; held-out notes are 2.5 s each; not listened to by the assistant"
+}
