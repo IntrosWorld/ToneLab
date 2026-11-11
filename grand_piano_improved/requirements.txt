@@ -1,0 +1,4 @@
+# Runtime dependencies. tkinter ships with the Windows Python installer.
+numpy>=1.24,<3
+scipy>=1.10,<2
+mido>=1.3,<2

@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Vivado / XSim scratch, once the RTL flow starts.
+xsim.dir/
+*.jou
+*.log
+*.pb
+*.wdb
+.Xil/
+out/coefs/
+out/obj_coef/
+analog/__pycache__/
+analog/*.raw
+analog/*.log
+out/synth_probe*
+xsim.dir/
+*.jou
+*.str
+xvlog.pb
+xelab.pb
