@@ -1,0 +1,98 @@
+{
+ "amp_N4096": {
+  "frame_ms": 46.4,
+  "hop_ms": 11.61,
+  "waveform_error": [
+   0.154,
+   0.157,
+   0.1
+  ],
+  "audio_seconds": 104.2,
+  "compute_seconds": 21.3,
+  "times_faster_than_real_time": 4.9,
+  "frames_limited": [
+   138,
+   8999
+  ]
+ },
+ "amp_N2048": {
+  "frame_ms": 23.2,
+  "hop_ms": 5.8,
+  "waveform_error": [
+   0.161,
+   0.151,
+   0.104
+  ],
+  "audio_seconds": 104.2,
+  "compute_seconds": 26.5,
+  "times_faster_than_real_time": 3.93,
+  "frames_limited": [
+   209,
+   17974
+  ]
+ },
+ "amp_N1024": {
+  "frame_ms": 11.6,
+  "hop_ms": 2.9,
+  "waveform_error": [
+   0.194,
+   0.193,
+   0.128
+  ],
+  "audio_seconds": 104.2,
+  "compute_seconds": 26.7,
+  "times_faster_than_real_time": 3.9,
+  "frames_limited": [
+   381,
+   35922
+  ]
+ },
+ "amp_N512": {
+  "frame_ms": 5.8,
+  "hop_ms": 1.45,
+  "waveform_error": [
+   0.252,
+   0.232,
+   0.162
+  ],
+  "audio_seconds": 104.2,
+  "compute_seconds": 30.6,
+  "times_faster_than_real_time": 3.4,
+  "frames_limited": [
+   337,
+   71818
+  ]
+ },
+ "amp_N256": {
+  "frame_ms": 2.9,
+  "hop_ms": 0.73,
+  "waveform_error": [
+   0.332,
+   0.428,
+   0.357
+  ],
+  "audio_seconds": 104.2,
+  "compute_seconds": 38.8,
+  "times_faster_than_real_time": 2.68,
+  "frames_limited": [
+   1220,
+   143609
+  ]
+ },
+ "amp_N4096_one_thread": {
+  "times_faster_than_real_time": 2.94
+ },
+ "ms_per_frame_per_step_N4096_one_thread": {
+  "20 inverse FFTs": 0.091,
+  "8 products": 0.043,
+  "8 forward FFTs": 0.029,
+  "damping + phase": 0.008
+ },
+ "chorus": {
+  "times_faster_than_real_time": 25.0
+ },
+ "per_note_flow": {
+  "ms_per_2p5s_note": 33.5,
+  "times_faster_than_real_time": 74.6
+ }
+}

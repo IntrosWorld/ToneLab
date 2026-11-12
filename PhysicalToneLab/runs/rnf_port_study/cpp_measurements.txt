@@ -1,0 +1,4 @@
+N 4096  frame 46.4 ms  hop 11.61 ms  compute 11.292 ms/frame  frames needed/s 86  core load 97.3 %  times faster than real time 1.0  (2.57052)
+N 2048  frame 23.2 ms  hop 5.80 ms  compute 6.299 ms/frame  frames needed/s 172  core load 108.5 %  times faster than real time 0.9  (2.6774)
+N 1024  frame 11.6 ms  hop 2.90 ms  compute 3.809 ms/frame  frames needed/s 345  core load 131.2 %  times faster than real time 0.8  (2.64503)
+N 512  frame 5.8 ms  hop 1.45 ms  compute 1.762 ms/frame  frames needed/s 689  core load 121.4 %  times faster than real time 0.8  (2.49111)
